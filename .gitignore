@@ -1,0 +1,18 @@
+# RPG Maker MZ ignore rules
+*.rmmzuser
+*.rmmzsave
+*.rpgsave
+save/*
+!save/.keep
+
+# Backup and cache
+*.bak
+*.tmp
+*.lock
+Thumbs.db
+.DS_Store
+
+# OS / IDE
+.vscode/
+.idea/
+node_modules/
