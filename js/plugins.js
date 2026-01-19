@@ -3,5 +3,6 @@
 var $plugins =
 [
 {"name":"EnemyProgressBar","status":true,"description":"Enemy HP Progress Bar that ends battle when full","parameters":{}},
-{"name":"NRP_EventCollisionEX","status":true,"description":"v1.04 Extends the collision detection for events.","parameters":{"ConsiderEventMove":"true","SettingList":"[]"}}
+{"name":"NRP_EventCollisionEX","status":true,"description":"v1.04 Extends the collision detection for events.","parameters":{"ConsiderEventMove":"true","SettingList":"[]"}},
+{"name":"PKD_SimpleSkillsTree","status":true,"description":"(v.1.0)[BASIC] Skills Tree System","parameters":{"PKD_SimpleSkillsTree":"","visualsGroup":"","mainSceneSettings:j":"\"\\\"appearWithAnimation\\\": true\\n\\\"closeButtonPosition\\\": { \\\"x\\\": 772, \\\"y\\\": 3 }\"","skilInfoWindowSettings:j":"\"\\\"reqColorNotPass\\\": \\\"#f02b1d\\\"\\n\\\"reqColorPass\\\": \\\"#25e84c\\\"\\n\\\"previewImgPosition\\\": { \\\"x\\\": 406, \\\"y\\\": 402 }\\n\\\"statusTextPosition\\\": { \\\"x\\\": 576, \\\"y\\\": 142 }\"","skillsTreeGridSettings:j":"\"\\\"startX\\\": 70\\n\\\"startY\\\": 120\\n\\\"spaceForCell\\\": 64\\n\\\"rows\\\": 7\\n\\\"cols\\\": 4\"","optionsGroup":"","isShowCmdInMainMenu:b":"true","cmdTitle":"Skills Tree","skillPointsPerLevelUpGain:i":"1","spacer|endHolder":""}}
 ];
